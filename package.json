@@ -22,7 +22,7 @@
     "const": "^1.0.0",
     "googleapis": "^47.0.0",
     "map": "^1.0.1",
-    "marked": "^0.3.6",
+    "marked": "^0.3.18",
     "marked-terminal": "^2.0.0",
     "mime": "^2.4.4",
     "node": "^13.6.0",
