@@ -18,21 +18,12 @@
   "homepage": "https://github.com/415andrew/video-maker#readme",
   "dependencies": {
     "algorithmia": "^0.3.10",
-    "bl": "^4.0.0",
     "const": "^1.0.0",
-    "googleapis": "^47.0.0",
-    "map": "^1.0.1",
-    "marked": "^0.3.6",
-    "marked-terminal": "^2.0.0",
-    "mime": "^2.4.4",
     "node": "^13.6.0",
     "readline-sync": "^1.4.10",
     "require": "^2.4.20",
-    "response": "^0.18.0",
     "sanitize": "^2.1.0",
     "sbd": "^1.0.16",
-    "stream-browserify": "^2.0.2",
-    "uglify-js": "^3.7.5",
     "watson-developer-cloud": "^4.0.1",
     "wikipedia": "0.0.3"
   }
