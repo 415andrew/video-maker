@@ -106,6 +106,8 @@ dist
 #credentials
 credentials/*.json
 
-content.json
 
-content.*.png
+#content
+content.json
+content/*.png
+content/*.jpg
