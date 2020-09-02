@@ -18,7 +18,7 @@
   "homepage": "https://github.com/415andrew/video-maker#readme",
   "dependencies": {
     "algorithmia": "^0.3.10",
-    "bl": "^4.0.0",
+    "bl": "^4.0.3",
     "const": "^1.0.0",
     "fresh": "^0.5.2",
     "geometry": "^0.1.0",
